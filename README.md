@@ -17,6 +17,11 @@ The MODIS imagery can be downloaded from the address below
 
 Model runs in QGIS. Anyone wishing to download and use this model can do so with a download of QGIS.
 
+## Instructions
+
+* Download the model somewhere on your computer.
+* Open QGIS, and go to the processing menu and select "Graphical Modeler".
+* Load in the downloaded model file to inspect the work flow/modify/execute the model.
 
 ## FYI
 
